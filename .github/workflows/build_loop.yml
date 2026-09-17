@@ -217,7 +217,7 @@ jobs:
           lnl_icon \
           2hlollipop \
           meal_week \
-          2002 \
+          negative_insulin \
           basal_lock
 
           # the final customization listed above CANNOT have a continuation character
